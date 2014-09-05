@@ -1,4 +1,4 @@
-# English translation
+# Swahili translation
 # vim: ft=jproperties
 
 commonNavbarToggle = Badilisha 
